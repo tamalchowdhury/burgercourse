@@ -1,3 +1,16 @@
+## Course Lesson Plan:
+
+- Programming Fundamentals 1
+- Programming Fundamentals 2
+- Vanilla JS: DOM, Event Listener
+- Modern Web App: Parcel, NPM, Node
+- ReactJS Hello World: State, Props, Hooks
+- Calculator App: Forms, Browser Validation
+- CRUD App: Create, React, Update, Delete 
+- API App: Application Programming Interface
+- Generator App, Canvas API
+- Browser APIs, LocalStorage, Clipboard, Share
+
 ## Number
 
 Any number typed without quotes is a number data type in JavaScript.
@@ -24,11 +37,9 @@ There are 2 types of number,
 
 A whole number. Not a fraction.
 
-All the positive whole numbers from 1, 2, 3, 4.. to Positive Infinity.
-
-All the negative whole numbers from -1, -2, -3, -4.. to Negative Infinity.
-
-And zero 0.
+- All the positive whole numbers from 1, 2, 3, 4.. to Positive Infinity.
+- All the negative whole numbers from -1, -2, -3, -4.. to Negative Infinity.
+- And zero 0.
 
 JavaScript used 64 bits to store an integer, 
 

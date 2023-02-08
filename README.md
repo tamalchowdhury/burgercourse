@@ -1,5 +1,11 @@
 ## Course Lesson Plan:
 
+Note: Show what can be done first, then add fundamentals without boring them.
+
+Aim for practical, real world project based learning.
+
+Web apps, like Spotify
+
 - Programming Fundamentals 1
 - Programming Fundamentals 2
 - Vanilla JS: DOM, Event Listener

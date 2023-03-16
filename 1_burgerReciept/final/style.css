@@ -1,0 +1,27 @@
+.reciept {
+  /* need to set a bg color otherwise it renders black */
+  background-color: white;
+  border: 1px solid black;
+  width: 400px;
+  min-height: 400px;
+  padding: 30px;
+  font-family: "Courier New", Courier, monospace;
+  text-transform: uppercase;
+}
+
+.reciept__title,
+.reciept__address {
+  text-align: center;
+}
+
+.reciept__number {
+  background: black;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+}
+
+.reciept__items__price {
+  float: right;
+}

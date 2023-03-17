@@ -1,6 +1,4 @@
 .reciept {
-  /* need to set a bg color otherwise it renders black */
-  background-color: pink;
   border: 1px solid black;
   width: 400px;
   min-height: 400px;
@@ -15,10 +13,10 @@
 }
 
 .reciept__number {
-  background: black;
+  background-color: black;
   color: white;
-  font-weight: bold;
   text-align: center;
+  font-weight: bold;
   padding: 5px;
 }
 

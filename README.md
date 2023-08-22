@@ -1,3 +1,16 @@
+## New Updated Course Outline:
+
+- Live Class #1 In the beginning: Setup your environment
+- Live Class #2 Guardian Angels: Troubleshooting JavaScript
+- Live Class #3 Sir, Yes Sir: Build a Calculator App
+- Live Class #4 Riot: Build a ToDo List App
+- Live Class #5 Shakedown: Build a Weather API App
+- Live Class #6 Supply and Demand: Build a Meme Generator App
+- Live Class #7 Publicity Tour: Write Documentation for Your Code
+- Live Class #8 Keep Your Friends Close: How to Open Source on Git & GitHub
+- Live Class #9 Stunt Boat Challenge: Testing Your JavaScript Functions
+- Live Class #10 The Party: How to Get Involved in Tech
+
 ## Course Lesson Plan:
 
 Note: Show what can be done first, then add fundamentals without boring them.

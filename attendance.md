@@ -11,3 +11,4 @@ This text file holds the name of all the burger course attendees. By updating an
 
 - Tamal Anwar Chowdhury
 - NABIL HAYAT
+- Imamujjaman Tasin

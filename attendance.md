@@ -13,3 +13,4 @@ This text file holds the name of all the burger course attendees. By updating an
 - Nabil Hayat
 - Imamujjaman Tasin
 - Hafizur Rahman
+- Nahidul Islam Siam
